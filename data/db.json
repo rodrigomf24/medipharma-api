@@ -1,0 +1,10 @@
+{
+  "ids": {
+    "Organization": 1
+  },
+  "models": {
+    "Organization": {
+      "1": "{\"name\":\"Farmacias Galeno\",\"owner_id\":1,\"address\":{\"street\":\"1234 ave 80-88 zona 10\",\"country\":\"GT\",\"city\":\"Guatemala\",\"zipcode\":564},\"coordinates\":{\"lat\":1,\"lng\":1},\"is_active\":true}"
+    }
+  }
+}
